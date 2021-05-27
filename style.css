@@ -2,3 +2,28 @@ p {
 	font-family: Arial;
 	color: red;
 }
+button{
+  font-style: bold; 
+}
+.button1{
+  background-color:green;
+  color:white;
+  font-weight:bold;
+   }
+  .button2{
+    background-color:orangered;
+    font-weight:bold
+   }
+  .button3{
+    background-color:red;
+    font-weight:bold;
+  }
+   .button4{
+    background-color:rgb(136, 255, 0);
+    font-weight:bold;
+   }
+   .button5{
+    Background-color:grey;
+    color:aqua;
+    font-weight:bold;
+   }

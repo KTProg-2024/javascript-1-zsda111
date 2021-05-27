@@ -17,3 +17,8 @@ function red()
 {
 	document.getElementById("color").style.color="red";
 }
+function wolf()
+{
+  document.getElementById("animal").innerHTML="wolf";
+  
+}
